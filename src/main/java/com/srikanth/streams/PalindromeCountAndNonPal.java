@@ -38,6 +38,6 @@ public class PalindromeCountAndNonPal {
 		}
 		System.out.println("Palibdrome Count::" + palCount);
 		System.out.println("Not Palibdrome Count::" + notPlaCount);
-
+// git pull
 	}
 }
