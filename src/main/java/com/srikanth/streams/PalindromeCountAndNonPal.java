@@ -32,8 +32,8 @@ public class PalindromeCountAndNonPal {
 				notPlaCount++;
 			}
 			str1 = "";
-			sb .setLength(0);;
-			System.out.println("SB:::"+sb.toString());
+			sb.setLength(0);
+			System.out.println("SB:::" + sb.toString());
 
 		}
 		System.out.println("Palibdrome Count::" + palCount);
